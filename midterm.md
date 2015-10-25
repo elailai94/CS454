@@ -76,6 +76,9 @@ Each team will present for 3-4 minutes. The presentation should cover:
 - rethinkdb<br/>
 (Susan, Jeanne, Zi, Daniel)<br/>
 
+- dynamo <br/>
+(Bhanupriya, Saloni, Sikandar) <br/>
+
 ####Suggestions
 
 - lodash/underscore<br/>
@@ -83,8 +86,6 @@ Each team will present for 3-4 minutes. The presentation should cover:
 - koa <br/>
 
 - traverse <br/>
-
-- dynamo <br/>
 
 - moment <br/>
 
