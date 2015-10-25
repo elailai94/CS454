@@ -26,7 +26,7 @@ Each team will present for 3-4 minutes. The presentation should cover:
 
 - q <br/>
 (Dustin , Michael, Christian, Kevin)<br/>
-(Jaymin, Vikalp, Julian)
+(Jaymin, Vikalp, Julian, Anil)
  
 - fs-extra <br/>
 (Ankit, Isha , Vishaka , Kush)</br>
@@ -52,7 +52,7 @@ Each team will present for 3-4 minutes. The presentation should cover:
 (Pooja, Zubin, Rakesh, Harshal)
 
 - couchbase <br/>
-(Tim, Erick, Adrian)
+(Tim, Erick, Adrian,David)
 
 - hapi <br/>
 (Anisha, Nikhil, Neil, Suren)<br/>
@@ -84,6 +84,7 @@ Each team will present for 3-4 minutes. The presentation should cover:
 - lodash/underscore<br/>
 
 - koa <br/>
+- (kishan, ashish, Keyuri)
 
 - traverse <br/>
 
