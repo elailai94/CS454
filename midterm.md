@@ -59,7 +59,7 @@ Each team will present for 3-4 minutes. The presentation should cover:
 (Soumik, Shrey, Dhruv, Mohankumar)
 
 - request <br/>
-(William, Raul, Avenir, Fernando) <br/>
+(William, Avenir, Fernando) <br/>
 (Rushika, Shivani, Tejendra, Niraj) 
 
 - socket.io <br/>
