@@ -79,12 +79,12 @@ Each team will present for 3-4 minutes. The presentation should cover:
 - dynamo <br/>
 (Bhanupriya, Saloni, Sikandar) <br/>
 
+- koa <br/>
+(Kishan, Ashish, Keyuri)
+
 ####Suggestions
 
 - lodash/underscore<br/>
-
-- koa <br/>
-- (kishan, ashish, Keyuri)
 
 - traverse <br/>
 
