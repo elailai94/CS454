@@ -33,6 +33,8 @@ Each team will present for 3-4 minutes. The presentation should cover:
 
 - backbone.js<br/>
 (Shwetlana , Savin , Sagar , Rupal)<br/>
+
+- underscore <br/>
 (Ceasar, Ray, Mariah, Danny)
 
 - mongodb <br/>
@@ -83,8 +85,6 @@ Each team will present for 3-4 minutes. The presentation should cover:
 (Kishan, Ashish, Keyuri)
 
 ####Suggestions
-
-- lodash/underscore<br/>
 
 - traverse <br/>
 
