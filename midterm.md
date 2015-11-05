@@ -26,13 +26,15 @@ Each team will present for 3-4 minutes. The presentation should cover:
 
 - q <br/>
 (Dustin , Michael, Christian, Kevin)<br/>
-(Jaymin, Vikalp, Julian)
+(Jaymin, Vikalp, Julian, Anil)
  
 - fs-extra <br/>
 (Ankit, Isha , Vishaka , Kush)</br>
 
 - backbone.js<br/>
 (Shwetlana , Savin , Sagar , Rupal)<br/>
+
+- underscore <br/>
 (Ceasar, Ray, Mariah, Danny)
 
 - mongodb <br/>
@@ -52,14 +54,14 @@ Each team will present for 3-4 minutes. The presentation should cover:
 (Pooja, Zubin, Rakesh, Harshal)
 
 - couchbase <br/>
-(Tim, Erick, Adrian)
+(Tim, Erick, Adrian,David)
 
 - hapi <br/>
 (Anisha, Nikhil, Neil, Suren)<br/>
 (Soumik, Shrey, Dhruv, Mohankumar)
 
 - request <br/>
-(William, Raul, Avenir, Fernando) <br/>
+(William, Avenir, Fernando) <br/>
 (Rushika, Shivani, Tejendra, Niraj) 
 
 - socket.io <br/>
@@ -68,6 +70,7 @@ Each team will present for 3-4 minutes. The presentation should cover:
 
 - csv <br/>
 (Jaynav, Parth, Dharmesh, Kunal) <br/>
+(Akshesh, Varunbhai, Rohan, Bhavik)
 
 - commander <br/>
 (Di, Jonathan, Seung Hyuk, Sherry) <br/>
@@ -75,15 +78,15 @@ Each team will present for 3-4 minutes. The presentation should cover:
 - rethinkdb<br/>
 (Susan, Jeanne, Zi, Daniel)<br/>
 
-####Suggestions
-
-- lodash/underscore<br/>
+- dynamo <br/>
+(Bhanupriya, Saloni, Sikandar) <br/>
 
 - koa <br/>
+(Kishan, Ashish, Keyuri)
+
+####Suggestions
 
 - traverse <br/>
-
-- dynamo <br/>
 
 - moment <br/>
 
